@@ -26,7 +26,13 @@ h2 {
 <a href="tf.php">Term Frequency</a> |
 <a href="idf.php">Invers Document Frequency</a> |
 <a href="tfidf.php">TF.IDF</a> |
-<a href="search1.php">Search</a> |
+<a href="search.php">Search 1</a> |
+<a href="search1.php">Search 2</a> |
+<a href="search2.php">Search3</a> |
+<a href="searchjaccard.php">Jaccard</a>|
+<a href="searchdice.php">Dice 1</a> |
+<a href="searchdice2.php">Dice 2</a> |
+<a href="searchdice1.php">Dice 3</a> |
 </div>
 <hr/>
 </body>
